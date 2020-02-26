@@ -1,5 +1,6 @@
 # TheMissingTOC
-An attempt to provide an easy guide to all the great Azure repos out there.
+An attempt to list some of the great Azure repos out there.
+Feel free to enter yours.
 
 
 ## Important Accounts to watch
