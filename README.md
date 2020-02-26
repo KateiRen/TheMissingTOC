@@ -18,6 +18,7 @@ Feel free to enter yours.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks)
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 - [azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell)
+- [azure-powershell](https://github.com/Azure/azure-powershell)
 - [devkit-sdk](https://github.com/microsoft/devkit-sdk)
 - [mxchip-gifs](https://github.com/Azure-Samples/mxchip-gifs)
 - [Custom-vision-service-iot-edge-raspberry-pi](https://github.com/Azure-Samples/Custom-vision-service-iot-edge-raspberry-pi)
