@@ -14,6 +14,7 @@ Feel free to enter yours.
 ## Most recent Repos
 
 - [DevOps on Azure](https://github.com/azuredevcollege/devops)
+- [Azure Developer College's application development training days content](https://github.com/azuredevcollege/trainingdays)
 
 ## Most Stared Repos
 
