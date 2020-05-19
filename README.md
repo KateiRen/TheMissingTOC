@@ -6,9 +6,14 @@ Feel free to enter yours.
 ## Important Accounts to watch
 
 - [Azure](https://github.com/Azure)
+- [Azure Developer College](https://github.com/azuredevcollege)
 - [Azure-Samples](https://github.com/Azure-Samples)
 - [MicrosoftDocs](https://github.com/MicrosoftDocs)
 - [Microsoft](https://github.com/microsoft)
+
+## Most recent Repos
+
+- [DevOps on Azure](https://github.com/azuredevcollege/devops)
 
 ## Most Stared Repos
 
